@@ -6,7 +6,7 @@ import React from 'react';
 const Home = () => {
   return (
     <div>
-      <nav className="max-w-screen-xl px-4 mx-auto ">
+      <nav className="max-w-screen-xl px-4 mx-auto flex">
         <Logo className="h-[40px] w-auto" />
         <div className="">
           <a href="">About us</a>
